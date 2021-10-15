@@ -9,6 +9,8 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600%7cPlayfair+Display:400i" rel="stylesheet">
         <link href="../../../../use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+
 
         <!-- Styles -->
         <link rel="stylesheet" href="/css/app.css">
@@ -285,7 +287,7 @@
             <!-- Clients end-->
             @extends('layouts.footer')
             
-            <a class="scroll-top" href="#top"><i class="ti-arrow-up"></i></a>
+            <a class="scroll-top" href="#top"><i class="fas fa-arrow-up"></i></a>
         </div>
     
         <!-- Scripts-->

@@ -9,6 +9,7 @@
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600%7cPlayfair+Display:400i" rel="stylesheet">
         <link href="../../../../use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 
         <!-- Styles -->
         <link rel="stylesheet" href="/css/app.css">
@@ -56,7 +57,7 @@
         <div class="extra-nav">
             <ul>
                 <li class="nav-toggle"><a href="#" data-toggle="collapse" data-target=".inner-navigation"><span
-                            class="menu-item-span"><i class="ti-menu"></i></span></a></li>
+                            class="menu-item-span"><i class="fas fa-bars"></i></span></a></li>
             </ul>
         </div>
     </div>
@@ -102,7 +103,7 @@
                     <div class="row">
                         <div class="col-lg-3 col-md-6">
                             <div class="icon-box text-center">
-                                <div class="icon-box-icon"><span class="ti-bar-chart"></span></div>
+                                <div class="icon-box-icon"><i class="fab fa-sellsy"></i></div>
                                 <div class="icon-box-title">
                                     <h6>Commercialisation</h6>
                                 </div>
@@ -116,7 +117,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="icon-box text-center">
-                                <div class="icon-box-icon"><span class="ti-pulse"></span></div>
+                                <div class="icon-box-icon"><i class="fas fa-solar-panel"></i></div>
                                 <div class="icon-box-title">
                                     <h6>Chauffage</h6>
                                 </div>
@@ -130,7 +131,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="icon-box text-center">
-                                <div class="icon-box-icon"><span class="ti-settings"></span></div>
+                                <div class="icon-box-icon"><i class="fas fa-solar-panel"></i></div>
                                 <div class="icon-box-title">
                                     <h6>Travaux</h6>
                                 </div>
@@ -145,7 +146,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="icon-box text-center">
-                                <div class="icon-box-icon"><span class="ti-hummer"></span></div>
+                                <div class="icon-box-icon"><i class="fas fa-tools"></i></div>
                                 <div class="icon-box-title">
                                     <h6>Réparations</h6>
                                 </div>
@@ -287,7 +288,7 @@
             <!-- Clients end-->
             @extends('layouts.footer')
             
-            <a class="scroll-top" href="#top"><i class="ti-arrow-up"></i></a>
+            <a class="scroll-top" href="#top"><i class="fas fa-arrow-up"></i></a>
         </div>
     
         <!-- Scripts-->
