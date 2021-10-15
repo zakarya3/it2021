@@ -1,0 +1,20 @@
+.inner-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.module-cover{
+    background-image: url(/img/yellow-safety-helmet-solar-cell-panel-min.jpg) !important;
+}
+.ms-3 {
+    margin-left: 1rem!important;
+  }
+.mb-3{
+    width: 50%;
+}
+.text-muted{
+    padding: 10px;
+}
+.bg-gray{
+    background-color: rgb(228, 228, 228);
+}
