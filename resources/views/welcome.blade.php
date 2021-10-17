@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Intervention Thermique | Accueil</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600%7cPlayfair+Display:400i" rel="stylesheet">
@@ -131,7 +131,7 @@
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="icon-box text-center">
-                                <div class="icon-box-icon"><i class="fas fa-solar-panel"></i></div>
+                                <div class="icon-box-icon"><i class="fas fa-briefcase"></i></div>
                                 <div class="icon-box-title">
                                     <h6>Travaux</h6>
                                 </div>
